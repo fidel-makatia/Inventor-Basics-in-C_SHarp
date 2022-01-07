@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="ChangeProcess" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{1bafcd77-292f-4c41-8f9e-2bb53466cf45}" progid="ChangeProcess.StandardAddInServer" threadingModel="Both" name="ChangeProcess.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="ChangeProcess.dll" hashalg="SHA1"></file>
+
+</assembly>

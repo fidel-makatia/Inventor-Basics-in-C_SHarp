@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 26.0-->
+  <ClassId>{1bafcd77-292f-4c41-8f9e-2bb53466cf45}</ClassId>
+  <ClientId>{1bafcd77-292f-4c41-8f9e-2bb53466cf45}</ClientId>
+  <DisplayName>ChangeProcess</DisplayName>
+  <Description>ChangeProcess</Description>
+  <Assembly>ChangeProcess.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
